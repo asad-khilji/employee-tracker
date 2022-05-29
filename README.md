@@ -33,7 +33,7 @@
 * MySQL2
 
 ## GitHub
-* 
+* https://github.com/asad-khilji/employee-tracker
 
 ## Video Walkthrough
 * 
