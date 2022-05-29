@@ -36,7 +36,7 @@
 * https://github.com/asad-khilji/employee-tracker
 
 ## Video Walkthrough
-* 
+* https://youtu.be/aMWeimyZfTw
 
 # Questions
 * My email is khiljiasad2@gmail.com
